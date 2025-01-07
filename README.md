@@ -71,9 +71,9 @@ It’s important to take time for the things that bring joy and spark creativity
 ## 📫 Contact Me
 Feel free to reach out if you’d like to collaborate, talk tech, or just say hi!
 
-- **Email**: [mixer@example.com](mailto:mixer@example.com)  
-- **Twitter**: [@Mixer159](https://twitter.com/yourTwitterHere)  
-- **LinkedIn**: [LinkedIn Profile](https://www.linkedin.com)  
+- **Email**: [kudela.maxim@kudelamaxim.cz](kudela.maxim@kudelamaxim.cz)  
+- **Twitter**: [@kudela_maxim](https://x.com/kudela_maxim)  
+- **LinkedIn**: [LinkedIn Profile](https://www.linkedin.com/in/maxim-kudela-18629921a/)  
 
 <p align="center">
   <img src="https://img.shields.io/badge/Dark--Theme-Purple%20Accent-8A2BE2?style=for-the-badge" alt="Dark Theme with Purple Accent Badge"/>
