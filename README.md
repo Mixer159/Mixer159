@@ -1,4 +1,4 @@
-<h1 align="center">🚀 Welcome to [Your Name]'s Digital Playground! 🎨</h1>
+<h1 align="center">🚀 Welcome to Maxim's Digital Playground! 🎨</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Front-End+Alchemist;Next.js+Enthusiast;UI/UX+Adventurer&center=true&width=380&height=50">
@@ -23,11 +23,11 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=mixer159&show_icons=true&theme=radical" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mixer159&theme=radical" alt="GitHub Streak" />
 </p>
 
 ## 🌱 Currently Growing In
