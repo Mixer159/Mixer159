@@ -12,13 +12,9 @@
   <a href="https://twitter.com/YourTwitter"><img src="https://img.shields.io/badge/-Twitter-9400D3?style=for-the-badge&logo=Twitter&logoColor=white"></a>
 </p>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mixer159&show_icons=true&theme=midnight-purple" alt="GitHub Stats" />
-</div>
+## 💫 About Me
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mixer159&theme=midnight-purple" alt="GitHub Streak" />
-</div>
+18-year-old Front-End sorcerer, crafting digital experiences for 2 years. Passionate about clean code, sleek designs, and pushing the boundaries of web development.
 
 ## 🛠️ Tech Arsenal
 
@@ -49,10 +45,6 @@
   <a href="https://twitter.com/YourTwitter"><img src="https://img.shields.io/badge/Twitter-9400D3?style=for-the-badge&logo=twitter&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/YourLinkedIn/"><img src="https://img.shields.io/badge/LinkedIn-4B0082?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 </p>
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Mixer159&color=8A2BE2" alt="Profile views" />
-</div>
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=8A2BE2&height=100&section=footer" />
