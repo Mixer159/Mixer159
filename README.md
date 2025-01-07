@@ -1,20 +1,26 @@
-<h1 align="center">🚀 Welcome to Maxim's Digital Playground! 🎨</h1>
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+Mixer159's+Realm&center=true&width=380&height=50&color=8A2BE2&vCenter=true&size=28&background=000000">
+</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Front-End+Alchemist;Next.js+Enthusiast;UI/UX+Adventurer&center=true&width=380&height=50">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Front-End+Alchemist;Next.js+Enthusiast;UI/UX+Adventurer&center=true&width=380&height=50&color=BA55D3&vCenter=true&size=20">
 </p>
 
 <p align="center">
-  <a href="https://github.com/Mixer159"><img src="https://img.shields.io/badge/GitHub-Mixer159-181717?style=flat-square&logo=github"></a>
-  <a href="https://linkedin.com/in/YourLinkedIn"><img src="https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white"></a>
-  <a href="https://twitter.com/YourTwitter"><img src="https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white"></a>
+  <a href="https://github.com/Mixer159"><img src="https://img.shields.io/badge/GitHub-Mixer159-8A2BE2?style=for-the-badge&logo=github&logoColor=white"></a>
+  <a href="https://linkedin.com/in/YourLinkedIn"><img src="https://img.shields.io/badge/-LinkedIn-4B0082?style=for-the-badge&logo=Linkedin&logoColor=white"></a>
+  <a href="https://twitter.com/YourTwitter"><img src="https://img.shields.io/badge/-Twitter-9400D3?style=for-the-badge&logo=Twitter&logoColor=white"></a>
 </p>
 
-## 👨‍💻 About Me
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Mixer159&show_icons=true&theme=midnight-purple" alt="GitHub Stats" />
+</div>
 
-I'm an 18-year-old Front-End developer passionate about creating sleek and functional web experiences. For the past two years, I've been immersing myself in the world of web development, constantly learning and improving my skills.
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mixer159&theme=midnight-purple" alt="GitHub Streak" />
+</div>
 
-## 🛠️ My Toolkit
+## 🛠️ Tech Arsenal
 
 <p align="center">
   <img src="https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js"/>
@@ -24,29 +30,30 @@ I'm an 18-year-old Front-End developer passionate about creating sleek and funct
   <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
 </p>
 
-## 🌱 Currently Growing In
+## 🌌 Current Quests
 
-- 🧠 Advanced React Patterns
-- 🏋️‍♂️ State Management Solutions
-- 🚀 Performance Optimization Techniques
+- 🧠 Mastering the arcane arts of React
+- 🏋️‍♂️ Forging powerful state management spells
+- 🚀 Optimizing web performance to light-speed
 
-## 🎭 When I'm Not Coding
+## 🎭 Off-Duty Adventures
 
-You might find me:
-- 📚 Devouring tech blogs like they're comic books
-- 🎮 Debugging my gaming skills
-- 🍕 Contemplating if pineapple belongs on pizza (spoiler: it doesn't)
+- 📚 Decoding ancient tech scrolls
+- 🎮 Leveling up in virtual realms
+- 🍕 Debating the great pineapple-on-pizza controversy
 
-## 📫 Let's Connect!
-
-<p align="center">
-  <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://twitter.com/YourTwitter"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/YourLinkedIn/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-</p>
+## 📫 Summon Me
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Mixer159&color=blueviolet" alt="Profile views" />
+  <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-8A2BE2?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://twitter.com/YourTwitter"><img src="https://img.shields.io/badge/Twitter-9400D3?style=for-the-badge&logo=twitter&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/YourLinkedIn/"><img src="https://img.shields.io/badge/LinkedIn-4B0082?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 </p>
 
-Remember: Stay curious, keep coding, and may your coffee be stronger than your Monday morning blues! ☕️💻
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=Mixer159&color=8A2BE2" alt="Profile views" />
+</div>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=8A2BE2&height=100&section=footer" />
+</div>
