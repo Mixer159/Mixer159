@@ -24,16 +24,6 @@ I'm an 18-year-old Front-End developer passionate about creating sleek and funct
   <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
 </p>
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mixer159&show_icons=true&theme=radical" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mixer159&theme=radical" alt="GitHub Streak" />
-</p>
-
 ## 🌱 Currently Growing In
 
 - 🧠 Advanced React Patterns
