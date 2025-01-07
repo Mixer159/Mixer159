@@ -1,38 +1,49 @@
-# 🚀 Welcome to my digital playground! 
+<h1 align="center">🚀 Welcome to [Your Name]'s Digital Playground! 🎨</h1>
 
-Hey there! I'm Maxim, an 18-year-old code enthusiast with a knack for turning caffeine into beautiful user interfaces.
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Front-End+Alchemist;Next.js+Enthusiast;UI/UX+Adventurer&center=true&width=380&height=50">
+</p>
 
-## 🎨 Front-End Alchemist
-
-For the past two years, I've been on a mission to transform the web, one pixel at a time. My weapons of choice? Next.js for lightning-fast performance, Chakra UI for pixel-perfect designs, and a sprinkle of magic from other cutting-edge libraries.
+<p align="center">
+  <a href="https://your-website.com"><img src="https://img.shields.io/badge/Website-YourWebsite-blue?style=flat-square&logo=google-chrome"></a>
+  <a href="https://linkedin.com/in/yourusername"><img src="https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white"></a>
+  <a href="https://twitter.com/yourusername"><img src="https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white"></a>
+</p>
 
 ## 🛠️ My Toolkit
 
-- 🧙‍♂️ Casting spells with Next.js
-- 🎭 Styling with Chakra UI (and its cool friends)
-- 🕹️ Bringing UIs to life with JavaScript
-- 🌈 Painting the web with HTML & CSS
+<p align="center">
+  <img src="https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js"/>
+  <img src="https://img.shields.io/badge/chakra-%234ED1C5.svg?style=for-the-badge&logo=chakraui&logoColor=white" alt="Chakra UI"/>
+  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
+  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
+</p>
 
-## 🌱 Growing & Glowing
+## 📊 GitHub Stats
 
-At 18, I'm like a sponge in the vast ocean of web development - always absorbing new knowledge. Currently leveling up in:
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical" alt="GitHub Stats" />
+</p>
 
-- 🧠 React brain teasers
-- 🏋️‍♂️ Heavy-lifting state management
-- 🚀 Turbocharging website performance
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=radical" alt="GitHub Streak" />
+</p>
 
-## 🎭 When I'm Not Coding
+## 🌱 Currently Growing In
 
-You might find me:
-- 📚 Devouring tech blogs like they're comic books
-- 🎮 Debugging my gaming skills
-- 🍕 Contemplating if pineapple belongs on pizza (spoiler: it doesn't)
+- 🧠 Advanced React Patterns
+- 🏋️‍♂️ State Management Solutions
+- 🚀 Performance Optimization
 
-## 🌟 Let's Create Something Awesome!
+## 📫 Let's Connect!
 
-Got a cool project idea? Want to debate the best CSS framework? Or just chat about the latest JavaScript memes? Hit me up!
+<p align="center">
+  <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://twitter.com/yourusername"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/yourusername/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+</p>
 
-E-mail: kudela.maxim@kudelamaxim.cz
-Phone: +420 602 702 555
-
-Remember: Stay curious, keep coding, and may your coffee be stronger than your Monday morning blues! ☕️💻
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=yourusername&color=blueviolet" alt="Profile views" />
+</p>
