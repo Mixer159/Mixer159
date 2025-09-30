@@ -13,10 +13,10 @@
 
 ## 🌌 About Me
 - **Age**: 19  
-- **Experience**: 3 years of creating websites  
+- **Experience**: 4+ years of creating websites  
 - **Location**: Somewhere in the world of code  
 - **Interests**:  
-  - Front-End Development  
+  - Full-Stack Development  
   - Next.js  
   - Working with Chakra UI and other awesome libraries  
 
