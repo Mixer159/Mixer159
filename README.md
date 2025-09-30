@@ -18,7 +18,7 @@
 - **Interests**:  
   - Full-Stack Development  
   - Next.js  
-  - Working with Chakra UI and other awesome libraries  
+  - Working with Shadcn and other awesome libraries  
 
 I’m passionate about turning ideas into visually striking interfaces with clean, efficient code. I love staying up-to-date on the latest technologies, experimenting with new libraries, and crafting sleek user experiences.
 
@@ -43,8 +43,8 @@ Here are some of the technologies and tools I love to work with:
   <a href="https://nextjs.org/">
     <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js Badge"/>
   </a>
-  <a href="https://chakra-ui.com/">
-    <img src="https://img.shields.io/badge/Chakra%20UI-319795?style=for-the-badge&logo=chakra-ui&logoColor=white" alt="Chakra UI Badge"/>
+   <a href="https://ui.shadcn.com/">
+    <img src="https://img.shields.io/badge/shadcn-000000?style=for-the-badge&logo=shadcn&logoColor=white" alt="shadcn Badge"/>
   </a>
 </p>
 
@@ -52,7 +52,7 @@ Here are some of the technologies and tools I love to work with:
 
 ## 🚀 Current Goals & Projects
 - Diving deeper into **Next.js** advanced features (API routes, dynamic rendering).  
-- Building personal projects with **Chakra UI** to create delightful user interfaces.  
+- Building personal projects with **Shadcn** to create delightful user interfaces.  
 - Exploring **TypeScript** to strengthen my code reliability.  
 - Learning about **accessibility** and **performance optimization** in modern web apps.
 
