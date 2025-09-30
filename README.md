@@ -6,7 +6,7 @@
 
 <!-- HEADER SECTION -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=30&color=%238A2BE2&center=true&vCenter=true&width=500&lines=Hello+%F0%9F%91%8B%2C+I'm+Maxim!;Front-End+Developer;Next.js+Enthusiast;Chakra+UI+Lover" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=30&color=%238A2BE2&center=true&vCenter=true&width=500&lines=Hello+%F0%9F%91%8B%2C+I'm+Maxim!;Full-Stack+Developer;Next.js+Enthusiast;Shadcn+Lover" alt="Typing SVG" />
 </p>
 
 ---
