@@ -1,0 +1,59 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 300" width="1200" height="300" role="img" aria-labelledby="t d">
+  <title id="t">Maxim Kudela</title>
+  <desc id="d">I build websites for Czech companies, and the systems that run behind them.</desc>
+
+  <defs>
+    <radialGradient id="glow" cx="50%" cy="-6%" r="70%">
+      <stop offset="0%" stop-color="#0047ff" stop-opacity="0.11" />
+      <stop offset="58%" stop-color="#0047ff" stop-opacity="0" />
+    </radialGradient>
+    <clipPath id="card">
+      <rect x="0.75" y="0.75" width="1198.5" height="298.5" rx="20" />
+    </clipPath>
+  </defs>
+
+  <!-- Sheet: bílá plocha, vlásková linka místo stínu -->
+  <rect x="0.75" y="0.75" width="1198.5" height="298.5" rx="20" fill="#ffffff" stroke="#e4e4e7" stroke-width="1.5" />
+
+  <!-- Modrá záře shora, stejná jako v hero sekci -->
+  <g clip-path="url(#card)">
+    <ellipse cx="600" cy="-20" rx="620" ry="250" fill="url(#glow)" />
+  </g>
+
+  <!-- Mono kicker -->
+  <rect x="68" y="65" width="6" height="6" rx="1.5" fill="#0047ff" />
+  <text x="88" y="74" font-family="JetBrains Mono, ui-monospace, SFMono-Regular, Menlo, Consolas, monospace"
+        font-size="12" font-weight="600" letter-spacing="1.95" fill="#64748b">TYPESCRIPT · NEXT.JS · REACT · CONVEX · TAILWIND</text>
+
+  <!-- Titulek -->
+  <text x="66" y="154" font-family="Inter, -apple-system, Segoe UI, Helvetica Neue, Helvetica, Arial, sans-serif"
+        font-size="56" font-weight="500" letter-spacing="-1.35" fill="#09090b">Maxim Kudela<tspan fill="#0047ff">.</tspan></text>
+
+  <!-- Perex -->
+  <text x="68" y="196" font-family="Inter, -apple-system, Segoe UI, Helvetica Neue, Helvetica, Arial, sans-serif"
+        font-size="18" font-weight="400" fill="#64748b">I build websites for Czech companies, and the systems that run behind them.</text>
+
+  <!-- Vlásková linka s putující tečkou (jako „scrollujte dál“ pod heroem) -->
+  <line x1="68" y1="236" x2="1132" y2="236" stroke="#e4e4e7" stroke-width="1.5" />
+  <g class="tecka">
+    <circle cx="68" cy="236" r="3.5" fill="#0047ff" />
+  </g>
+
+  <text x="68" y="270" font-family="JetBrains Mono, ui-monospace, SFMono-Regular, Menlo, Consolas, monospace"
+        font-size="12" font-weight="500" letter-spacing="1.6" fill="#94a3b8">20+ SITES SHIPPED · TŘINEC, CZ</text>
+  <text x="1132" y="270" text-anchor="end" font-family="JetBrains Mono, ui-monospace, SFMono-Regular, Menlo, Consolas, monospace"
+        font-size="12" font-weight="600" letter-spacing="1.6" fill="#0047ff">CHCIWEEEB.CZ</text>
+
+  <style>
+    @keyframes jizda {
+      0%   { transform: translateX(0);      opacity: 0; }
+      8%   {                                opacity: 1; }
+      88%  {                                opacity: 1; }
+      100% { transform: translateX(1064px); opacity: 0; }
+    }
+    .tecka { animation: jizda 7s cubic-bezier(0.65, 0, 0.35, 1) infinite; }
+    @media (prefers-reduced-motion: reduce) {
+      .tecka { animation: none; opacity: 0; }
+    }
+  </style>
+</svg>
