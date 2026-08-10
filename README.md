@@ -1,143 +1,117 @@
 <!--
-  ========================================================
+  ============================================================
   GitHub Profile README — Mixer159 (Maxim Kudela)
-  Dark theme · Purple accents (#8A2BE2 → #4A00E0)
-  ========================================================
+
+  Vizuální systém převzatý z chciweeeb.cz:
+  bílá plocha, jeden akcent #0047FF, vlásková linka místo
+  stínů, mono mikrotypografie, hodně vzduchu.
+  Žádné pilulky, žádné trofeje, žádný had.
+
+  Pozn.: oddělovače (---) tu schválně nejsou. GitHub kreslí
+  pod každý nadpis h2 vlastní vlásku, takže by vedle sebe
+  stály dvě linky a ta druhá je tlustá a šedá.
+  Odstavec = jeden řádek ve zdroji. GitHub dělá z každého
+  zalomení <br>, ručně zalámaný text by se pak lámal dvakrát.
+  ============================================================
 -->
 
-<!-- ===================== ANIMATED HEADER ===================== -->
 <div align="center">
-  <img
-    src="https://capsule-render.vercel.app/api?type=waving&color=0:8A2BE2,100:4A00E0&height=200&section=header&text=Maxim%20Kudela&fontSize=58&fontColor=ffffff&fontAlignY=38&animation=fadeIn&desc=Full-Stack%20Developer%20%E2%80%A2%20Next.js%20%E2%80%A2%20TypeScript%20%E2%80%A2%20shadcn%2Fui&descSize=16&descColor=E0AAFF&descAlignY=56"
-    alt="header"
-  />
+  <img src="./assets/header.svg" alt="Maxim Kudela. I build websites for Czech companies, and the systems that run behind them." width="100%">
 </div>
 
-<!-- ===================== TYPING EFFECT ===================== -->
-<div align="center">
-  <a href="https://git.io/typing-svg">
-    <img
-      src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=800&color=8A2BE2&center=true&vCenter=true&width=650&height=70&lines=Hi+%F0%9F%91%8B+I'm+Maxim;Full-Stack+Developer;Next.js+%26+TypeScript+Enthusiast;shadcn%2Fui+Lover;Turning+ideas+into+clean+interfaces"
-      alt="Typing SVG"
-    />
-  </a>
-</div>
+<br>
 
-<!-- ===================== PROFILE VIEWS + SOCIALS ===================== -->
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Mixer159&label=Profile%20Views&color=8A2BE2&style=for-the-badge" alt="profile views" />
-  <br/><br/>
-  <a href="https://www.linkedin.com/in/maxim-kudela-18629921a/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://x.com/kudela_maxim">
-    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" />
-  </a>
-  <a href="mailto:kudela.maxim@kudelamaxim.cz">
-    <img src="https://img.shields.io/badge/Email-8A2BE2?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://kudelamaxim.cz">
-    <img src="https://img.shields.io/badge/Portfolio-4A00E0?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
-  </a>
-</div>
+I'm 20, I work from Třinec in the Czech Republic, and I've been building for the web for six years. I run **[Chciweeeb.cz](https://chciweeeb.cz)**, a small studio that hand codes websites for Czech companies and sole traders, and afterwards I write the internal systems those companies run on.
 
-<br/>
+No page here started as a template. Every project starts as an empty file.
 
-## 🌌 About Me
+## What I do.
 
-```ts
-const maxim = {
-  age: 20,
-  experience: "6+ years building for the web",
-  location: "Somewhere in the world of code",
-  stack: ["TypeScript", "Next.js", "React", "shadcn/ui"],
-  focus: "turning ideas into visually striking, type-safe interfaces",
-};
+**Websites on order.** Company sites, landing pages and smaller e-shops, written from scratch in Next.js. First message to launch takes three days to two weeks, depending on the scope.
+
+**The system behind the website.** A site is the visible part. Most of my code is the other part: CRM, quoting, client portals, onboarding flows, audit trails, the machinery that keeps a business from running on a spreadsheet.
+
+**Interfaces that hold up.** Type safe, accessible, fast on a phone on mobile data. A design that looks good in a screenshot and loads in four seconds is not a design.
+
+## Chciweeeb.cz
+
+My studio and my largest codebase. The public site is Next.js 16 on the App Router with React 19, Tailwind 4 and Framer Motion. Behind the login sits everything the studio actually runs on: leads and CRM, a price configurator, projects and delivery, a client portal, onboarding and intake forms, an audit trail, and an AI assistant that knows our own pricing rules.
+
+Realtime data on Convex, transactional mail through Nodemailer, bot protection on the public endpoints, analytics that stay off until someone says yes, because Czech consent law is not a suggestion. Twenty plus sites shipped so far.
+
+**[chciweeeb.cz](https://chciweeeb.cz)**
+
+## Workeee
+
+A Czech team workspace built around one flow: organization, then projects, then tasks. Kanban with custom states, a block editor, attachments, comments with mentions, role management, and one time invites for a whole organization or a single project.
+
+Next.js 16 · React 19 · TypeScript · Tailwind 4 · Convex · Better Auth · tested with Vitest and convex-test
+
+**[Repository](https://github.com/Mixer159/Workeee)** &nbsp;·&nbsp; **[Live app](https://workeee.vercel.app)**
+
+## Selected work.
+
+| Site | What it is |
+|:--|:--|
+| **[fitboost.me](https://fitboost.me)** | A fitness app for people who have quit training more than once, plus the page that sells it. One clear action per screen. |
+| **[nejservis.eu](https://nejservis.eu)** | Window and door repair. The customer arrives with a specific problem, so the enquiry form sits on the first screen. |
+| **[uversezastavou.cz](https://uversezastavou.cz)** | Loans against property. Trust decides here, so the page explains how it works before it asks for a phone number. |
+| **[hotovehned.cz](https://hotovehned.cz)** | One page for property buyouts, one goal. Brief to launch in five days. |
+| **[taiwanbusiness.eu](https://www.taiwanbusiness.eu/cs)** | A trade representation talking to two markets at once. Several language versions over one content base, not two sites side by side. |
+| **[julcadoucko.cz](https://julcadoucko.cz)** | Private tutoring. Parents read how a lesson works and book it, instead of hunting for a phone number. |
+| **[kudelamaxim.cz](https://kudelamaxim.cz)** | My portfolio, and the place where things get tested before a client ever sees them. |
+
+Most of the rest lives in private client repositories, which is why this profile is quieter than my week.
+
+## Stack.
+
+```
+Everyday     TypeScript · React 19 · Next.js 16 (App Router, RSC)
+Interface    Tailwind CSS 4 · Framer Motion · shadcn/ui · Radix · Lucide
+Backend      Convex · Better Auth · Node · Vercel · Nodemailer · Zod
+Also         Python · FastAPI · Remotion · Git
 ```
 
-I'm passionate about shipping clean, efficient code and sleek user experiences. I love
-staying on the bleeding edge — experimenting with new libraries, tightening up my
-TypeScript, and crafting interfaces that feel as good as they look.
+I'm picky about two things. Everything is typed, and nothing ships before it has been read on a real phone.
 
----
+## Currently.
 
-## 🛠️ Tech Stack
+Building an AI assisted intake flow that turns a client brief into a structured project spec, so a project starts with answers instead of a blank page. Next to that: a client portal where the customer watches their own project move, and a Remotion pipeline for short promo videos.
 
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,tailwind,nodejs,python,fastapi,vercel,git,github,vscode,html,css&theme=dark&perline=7" alt="tech stack" />
-  <br/><br/>
-  <img src="https://img.shields.io/badge/obsessed%20with-shadcn%2Fui-0F0F0F?style=for-the-badge&logo=shadcnui&logoColor=white" alt="shadcn/ui" />
-</div>
+Away from the keyboard I mostly go looking for music I have not heard yet.
 
----
+## Get in touch.
 
-## 📊 GitHub Stats
+**Studio** &nbsp;·&nbsp; [chciweeeb.cz](https://chciweeeb.cz)
+**Portfolio** &nbsp;·&nbsp; [kudelamaxim.cz](https://kudelamaxim.cz)
+**Email** &nbsp;·&nbsp; [kudela.maxim@kudelamaxim.cz](mailto:kudela.maxim@kudelamaxim.cz)
+**LinkedIn** &nbsp;·&nbsp; [Maxim Kudela](https://www.linkedin.com/in/maxim-kudela-18629921a/)
+**X** &nbsp;·&nbsp; [@kudela_maxim](https://x.com/kudela_maxim)
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Mixer159&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=00000000&title_color=8A2BE2&icon_color=9D4EDD&text_color=c9d1d9" alt="stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mixer159&layout=compact&langs_count=8&hide_border=true&bg_color=00000000&title_color=8A2BE2&text_color=c9d1d9" alt="top langs" />
-  <br/><br/>
-  <img src="https://streak-stats.demolab.com?user=Mixer159&theme=dark&hide_border=true&background=00000000&stroke=8A2BE2&ring=8A2BE2&fire=9D4EDD&currStreakNum=ffffff&currStreakLabel=8A2BE2&sideNums=ffffff&sideLabels=c9d1d9&dates=8b949e" alt="streak" />
-</div>
+Write to me about a website, about a system that should have been automated a year ago, or just about code. I answer within a day.
 
----
+<br>
 
-## 📈 Contribution Graph
+<sub>Postaveno v Třinci. Píšu weby, které někdo opravdu používá.</sub>
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mixer159&bg_color=0d1117&color=8A2BE2&line=9D4EDD&point=ffffff&area=true&hide_border=true" alt="activity graph" />
-</div>
+<!--
+  ── Statistiky (schválně vypnuté) ──────────────────────────
+  github-readme-stats má teď pauznutý deployment (vrací 503
+  DEPLOYMENT_PAUSED), takže by z těch karet byly rozbité
+  obrázky. Až se vrátí, stačí odkomentovat. Barvy už sedí na
+  systém: bílá plocha, vlásková linka, jeden akcent.
 
-<!-- Snake animation — requires the snake.yml GitHub Action (see setup notes) -->
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Mixer159/Mixer159/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Mixer159/Mixer159/output/github-contribution-grid-snake.svg" />
-    <img alt="contribution snake" src="https://raw.githubusercontent.com/Mixer159/Mixer159/output/github-contribution-grid-snake.svg" />
-  </picture>
-</div>
+  <div align="center">
+    <img height="176" alt="GitHub stats"
+      src="https://github-readme-stats.vercel.app/api?username=Mixer159&show_icons=true&include_all_commits=true&count_private=true&rank_icon=github&hide_border=false&border_color=e4e4e7&border_radius=14&bg_color=ffffff&title_color=0047ff&icon_color=0047ff&text_color=3f3f46">
+    <img height="176" alt="Most used languages"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mixer159&layout=compact&langs_count=8&hide_border=false&border_color=e4e4e7&border_radius=14&bg_color=ffffff&title_color=0047ff&text_color=3f3f46">
+  </div>
 
----
+  Tohle funguje i teď — mřížka příspěvků v akcentu:
 
-## 🏆 Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Mixer159&theme=dracula&no-frame=true&no-bg=true&margin-w=4&margin-h=4&column=7" alt="trophies" />
-</div>
-
----
-
-## 🚀 Current Goals & Projects
-
-- Pushing **Next.js** further — App Router, Server Components, and edge rendering.
-- Crafting delightful UIs with **shadcn/ui** + **Tailwind CSS**.
-- Writing rock-solid, type-safe code with **TypeScript**.
-- Sharpening my game on **accessibility** and **performance optimization**.
-
----
-
-## 🎮 Outside of Coding
-
-When I'm away from the keyboard, you'll find me:
-
-- 🎵 Discovering and getting lost in new music
-
-Taking time for the things that spark creativity matters just as much as the code.
-
----
-
-## 📫 Get In Touch
-
-Feel free to reach out to collaborate, talk tech, or just say hi!
-
-| | |
-|---|---|
-| 📧 **Email** | [kudelamaxim@gmail.com](mailto:kudelamaxim@gmail.com) |
-| 🐦 **X** | [@kudela_maxim](https://x.com/kudela_maxim) |
-| 💼 **LinkedIn** | [Maxim Kudela](https://www.linkedin.com/in/maxim-kudela-18629921a/) |
-| 🌐 **Portfolio** | [kudelamaxim.cz](https://kudelamaxim.cz) |
-
-<!-- ===================== ANIMATED FOOTER ===================== -->
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4A00E0,100:8A2BE2&height=120&section=footer&text=Thanks%20for%20stopping%20by!&fontSize=20&fontColor=ffffff&fontAlignY=72&animation=twinkling" alt="footer" />
-</div>
+  <div align="center">
+    <img width="96%" alt="Contributions" src="https://ghchart.rshah.org/0047ff/Mixer159">
+  </div>
+  ───────────────────────────────────────────────────────────
+-->
